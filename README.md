@@ -1,3 +1,3 @@
 # Real_time
 Following with Firebase course of Platzi
-Firebase, permite contar con una base de datos del tipo no relaciona. Esto es realmente nuevo para mi. Por lo que ire dejando mis apuntes en esta sección
+Firebase let me have a NoSQL database . This is realy new for me, and I'll give you my notes by here.
