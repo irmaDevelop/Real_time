@@ -10,6 +10,11 @@ public class Artist {
     private String name;
     private String genre;
 
+    public Artist() {
+
+    }
+
+
     public Artist(String key) {
 
     }
